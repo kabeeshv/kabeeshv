@@ -1,4 +1,21 @@
-## Hi there 👋
+##  Hi 👋, I'm Kabeesh
+
+💻 Passionate Developer  
+🌱 Currently learning Full Stack Development  
+⚡ Love building websites & projects  
+
+## 🚀 Skills
+- HTML
+- CSS
+- JavaScript
+- Java
+
+## 📂 Projects
+- Restaurant Website 🍽️
+- Portfolio Website 🌐
+
+## 📫 Contact
+- Email: kabeeshvelraj12@gmail.com
 
 <!--
 **kabeeshv/kabeeshv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
