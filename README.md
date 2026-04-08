@@ -1,23 +1,47 @@
-##  Hi 👋, I'm Kabeesh
+# Hi 👋, I'm Kabeesh
 
-💻 Passionate Developer  
-🌱 Currently learning Full Stack Development  
-⚡ Love building websites & projects  
+💻 Aspiring Full Stack & Java Developer  
+🚀 Passionate about building modern web applications  
+⚡ Quick learner with strong interest in problem solving  
 
-## 🚀 Skills
+---
+
+## 🔥 About Me
+I am a BCA graduate with a strong foundation in programming and web technologies. I am highly interested in Full Stack Development and Java, and I enjoy building real-world projects to improve my skills.
+
+---
+
+## 🛠️ Tech Stack
 - HTML
 - CSS
 - JavaScript
 - Java
 
-## 📂 Projects
-- Travel Website
-- Bike service website
-- Portfolio Website 🌐
-- Ecommerce Application
 
-## 📫 Contact
-- Email: kabeeshvelraj12@gmail.com
+---
+
+## 📂 Projects
+- 🌍 Travel Website – A simple website to explore destinations and plan trips  
+- 💼 Portfolio Website – A personal site to showcase my skills and projects  
+- 🏍️ Bike Service Website – Online booking system for bike maintenance  
+- 🛒 E-commerce Application – Online shopping platform with cart system  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+---
+
+## 📫 Contact Me
+- 📧 Email: kabeeshvelraj12@gmail.com  
+
+---
+
+⭐ Always learning new technologies and building projects
+
+
+
 
 <!--
 **kabeeshv/kabeeshv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
