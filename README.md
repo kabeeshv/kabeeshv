@@ -11,8 +11,10 @@
 - Java
 
 ## 📂 Projects
-- Restaurant Website 🍽️
+- Travel Website
+- Bike service website
 - Portfolio Website 🌐
+- Ecommerce Application
 
 ## 📫 Contact
 - Email: kabeeshvelraj12@gmail.com
