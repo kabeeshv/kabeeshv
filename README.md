@@ -1,59 +1,34 @@
-# Hi 👋, I'm Kabeesh
+I want to create an outstanding GitHub profile that looks modern, professional, and attractive.
 
-💻 Aspiring Full Stack & Java Developer  
-🚀 Passionate about building modern web applications  
-⚡ Quick learner with strong interest in problem solving  
+My goal is to impress recruiters, developers, and open-source contributors.
 
----
+Please generate:
 
-## 🔥 About Me
-I am a BCA graduate with a strong foundation in programming and web technologies. I am highly interested in Full Stack Development and Java, and I enjoy building real-world projects to improve my skills.
+1. A premium GitHub Profile README.md
+2. A clean and modern layout
+3. A professional introduction
+4. Skills section with attractive badges
+5. Technologies I use
+6. GitHub stats cards
+7. Streak stats
+8. Top languages card
+9. Contribution graph
+10. Social media icons
+11. Portfolio section
+12. Featured projects section
+13. Current learning section
+14. Fun facts
+15. Quote section
+16. Animated typing header
+17. Visitor counter
+18. Coding GIF banner
+19. Responsive markdown
+20. Professional color theme
 
----
+Use only free GitHub widgets and public APIs.
 
-## 🛠️ Tech Stack
-- HTML
-- CSS
-- JavaScript
-- Java
+Write clean Markdown that works directly inside README.md.
 
+Also explain where each code block should be placed and provide comments so I can customize everything later.
 
----
-
-## 📂 Projects
-- 🌍 Travel Website – A simple website to explore destinations and plan trips  
-- 💼 Portfolio Website – A personal site to showcase my skills and projects  
-- 🏍️ Bike Service Website – Online booking system for bike maintenance  
-- 🛒 E-commerce Application – Online shopping platform with cart system  
-
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
----
-
-## 📫 Contact Me
-- 📧 Email: kabeeshvelraj12@gmail.com  
-
----
-
-⭐ Always learning new technologies and building projects
-
-
-
-
-<!--
-**kabeeshv/kabeeshv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Do not use deprecated GitHub widgets.
