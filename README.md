@@ -1,93 +1,107 @@
-# 👨‍💻 Full-Stack Java Developer
+# 👋 Hi, I'm Kabeesh
 
-<div align="center">
-  
-  [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
-  [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-  [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
-  [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-  
-</div>
+### 💻 Full Stack Developer | Java Developer | Problem Solver
+
+Welcome to my GitHub profile! 🚀
+
+I'm a passionate Full Stack Developer who enjoys building clean,
+responsive, and user-friendly web applications. I love learning
+new technologies, solving problems, and turning ideas into real-world projects.
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Java Developer** with expertise in building robust, scalable web applications. I love crafting clean code and delivering solutions that make an impact. Whether it's backend APIs or interactive frontends, I'm committed to excellence at every layer of the stack.
-
-### 💼 What I Do
-
-- 🔧 **Backend Development**: Spring Boot, REST APIs, Microservices
-- 🎨 **Frontend Development**: React, HTML5, CSS3, JavaScript
-- 🗄️ **Database Design**: SQL, PostgreSQL, MySQL, MongoDB
-- ☁️ **Cloud & DevOps**: Docker, Kubernetes, AWS basics
-- 📱 **Full-Stack Solutions**: End-to-end application development
+- 💻 Full Stack Developer
+- 🌱 Currently improving my development skills
+- ☕ Interested in Java & Web Development
+- 🎨 Love creating clean and responsive UI
+- 🔥 Passionate about learning new technologies
+- 📍 Tamil Nadu, India
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
-```
-Java • JavaScript • SQL • HTML5 • CSS3
-Spring Framework • Spring Boot • Spring Security
-Spring Data JPA • Hibernate • Maven • Gradle
-```
+### 💻 Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Frontend Technologies
-```
-React • Redux • Webpack • npm / yarn
-Bootstrap • Material-UI • REST APIs
-```
+### 🌐 Web Development
 
-### Databases & Tools
-```
-PostgreSQL • MySQL • MongoDB • Redis
-Git • Docker • Jenkins • Linux
-IntelliJ IDEA • VS Code
-```
+- HTML
+- CSS
+- JavaScript
+- Responsive Web Design
+
+### 🔧 Tools
+
+- Git
+- GitHub
+- VS Code
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kabeeshv&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabeeshv&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🎯 My Goals
+## 📈 Most Used Languages
 
-- 🌟 Build innovative solutions that solve real-world problems
-- 📚 Continuously learn new technologies and best practices
-- 🤝 Collaborate with talented developers and contribute to open-source
-- 🚀 Create scalable, maintainable, and high-performance applications
-
----
-
-## 📞 Let's Connect
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabeeshv&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">
-  
-  ### ⭐ If you find my work interesting, feel free to star some of my repositories!
-  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrng815Q/giphy.gif" width="25px">
-  
-  **Happy Coding!**
-  
-</div>
+## 🚀 Featured Projects
+
+Here are some of the projects I'm working on:
+
+- 🔹 **Project 1** – Add your best project here
+- 🔹 **Project 2** – Add your second project here
+- 🔹 **Project 3** – Add another interesting project here
+
+> 🚧 More exciting projects coming soon!
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Java
+- Full Stack Development
+- Backend Development
+- Database Management
+- Modern Web Technologies
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/kabeeshv">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> "Great things are built one line of code at a time." 💻🔥
+
+---
+
+<h3 align="center">
+  Thanks for visiting my profile! ⭐
+</h3>
